@@ -18,7 +18,7 @@ This repo stores my past Power BI projects (at work or personal).
 
     - Dataset: https://docs.google.com/spreadsheets/d/1tojpckdFsKocBYM0_vSFYMJYokUxSVMR69UjMGoKB84/edit?usp=sharing
     - The Trading Journal Dashboard allows myself to obtain personalized insights into investment statistics, risk management, and areas of improvement by evaluating performance metrics built by DAX formulas. Specifically, it enhanced investment strategies and assisted me to make informed, quantitative-based investment decisions by tracking average position hold time, Kelly criterion, Sharpe ratio and other risk management metrics.
-    - View it online: https://app.powerbi.com/view?r=eyJrIjoiM2FlZjljMDMtYjgwNy00OTI1LWExZTctM2YxNjM1MzVmZTFlIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D
+    - View it online: https://app.powerbi.com/reportEmbed?reportId=dc8187f5-2095-4f99-a604-5412c0ce42e8&autoAuth=true&ctid=6c1d4152-39d0-44ca-88d9-b8d6ddca0708
 
 
 4. StockQuote Dashboard (personal project, still in development)
